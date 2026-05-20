@@ -9,12 +9,12 @@ Desenvolvimento do segundo projeto prático da disciplina, utilizando a linguage
 
 ## 👥 Equipe
 * **Caio Amarante Calderaro** — [GitHub](https://github.com/IrineuACgasoso) | [LinkedIn](https://www.linkedin.com/in/caio-amarante-calderaro-b30ba938b/)
-* **Felipe Almeida Albuquerque de Holanda** — [GitHub](https://github.com/)
-* **Guilherme Galindo Zloccowick** — [GitHub](https://github.com/)
-* **Guilherme Laurentino Santos** — [GitHub](https://github.com/)
+* **Felipe Almeida Albuquerque de Holanda** — [GitHub](https://github.com/felipefaah)
+* **Guilherme Galindo Zloccowick** — [GitHub](https://github.com/GuiGalindo)
+* **Guilherme Laurentino Santos** — [GitHub](https://github.com/GuiLaurentino)
 * **Heitor Nascimento Briano** — [GitHub](https://github.com/)
-* **Kaynan Roberth Torres Silva** — [GitHub](https://github.com/)
-* **Maria Clara Pereira Goncalves** — [GitHub](https://github.com/)
+* **Kaynan Roberth Torres Silva** — [GitHub](https://github.com/Kaynart)
+* **Maria Clara Pereira Goncalves** — [GitHub](https://github.com/MClarapg)
 
 ---
 
