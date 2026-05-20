@@ -12,7 +12,7 @@ Desenvolvimento do segundo projeto prático da disciplina, utilizando a linguage
 * **Felipe Almeida Albuquerque de Holanda** — [GitHub](https://github.com/felipefaah)
 * **Guilherme Galindo Zloccowick** — [GitHub](https://github.com/GuiGalindo)
 * **Guilherme Laurentino Santos** — [GitHub](https://github.com/GuiLaurentino)
-* **Heitor Nascimento Briano** — [GitHub](https://github.com/)
+* **Heitor Nascimento Briano** — [GitHub](https://github.com/HeitorNascimento031080)
 * **Kaynan Roberth Torres Silva** — [GitHub](https://github.com/Kaynart)
 * **Maria Clara Pereira Goncalves** — [GitHub](https://github.com/MClarapg)
 
